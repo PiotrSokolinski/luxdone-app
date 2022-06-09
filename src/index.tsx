@@ -30,7 +30,7 @@ root.render(
                 <ErrorBoundary fallback={<Fallback />}>
                   <ApplicationStore>
                     <>
-                      <ToastContainer position="bottom-right" />
+                      <ToastContainer position="bottom-right" delay={4000} />
                       <App />
                     </>
                   </ApplicationStore>
