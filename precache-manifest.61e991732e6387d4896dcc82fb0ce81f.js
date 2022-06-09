@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/luxdone-app/static/js/0.36bfea93.chunk.js"
   },
   {
-    "revision": "b3ac1841ac193553b3b8",
-    "url": "/luxdone-app/static/js/main.23299f39.chunk.js"
+    "revision": "8bf0432d04ce15fb8bbd",
+    "url": "/luxdone-app/static/js/main.cac777e7.chunk.js"
   },
   {
     "revision": "6b7223191aec5539ae43",
     "url": "/luxdone-app/static/js/runtime~main.dd95be03.js"
   },
   {
-    "revision": "7ae4d0ee5b817c8f06ce",
-    "url": "/luxdone-app/static/js/3.9bf8259f.chunk.js"
+    "revision": "1d01cd427afce2b24292",
+    "url": "/luxdone-app/static/js/3.a7e73b51.chunk.js"
   },
   {
     "revision": "c4b7d6771514f4645c52",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/luxdone-app/static/media/fallback.ff277964.png"
   },
   {
-    "revision": "c46da39b58ee7a8569f28ecc197d5455",
+    "revision": "b19d5ccbf998c1931f038e9e01c87e86",
     "url": "/luxdone-app/index.html"
   }
 ];
