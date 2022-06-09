@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/luxdone-app/static/js/0.36bfea93.chunk.js"
   },
   {
-    "revision": "2d4d9735ff12878ac5fe",
-    "url": "/luxdone-app/static/js/main.4484e16c.chunk.js"
+    "revision": "670b523295c28bd2d7bb",
+    "url": "/luxdone-app/static/js/main.9a9a5554.chunk.js"
   },
   {
     "revision": "6b7223191aec5539ae43",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/luxdone-app/static/media/fallback.ff277964.png"
   },
   {
-    "revision": "3cf27fa70926a0586a7f1100351873f5",
+    "revision": "72c3c5df6a8a3cffaa1494e42e0924f7",
     "url": "/luxdone-app/index.html"
   }
 ];
