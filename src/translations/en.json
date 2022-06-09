@@ -1,0 +1,39 @@
+{
+  "common": {
+    "errorIconAlt": "Error icon"
+  },
+  "score": {
+    "starAlt": "Star icon",
+    "emptyStarAlt": "Empty star icon"
+  },
+  "breedCard": {
+    "wikipedia": "Wikipedia",
+    "like": "Like",
+    "unlike": "Unlike",
+    "heart": "Heart",
+    "emptyHeart": "Empty heart",
+    "unliked": "You unliked a {name} breed",
+    "liked": "You liked a {name} breed!"
+  },
+  "notFound": {
+    "header": "Opps! Page not found",
+    "subheader": "Sorry, the page you're looking for doesn't exist. You can go back or return to dashboard page.",
+    "goBack": "Go back",
+    "goDashboard": "Go to dashboard",
+    "iconAlt": "Not found icon"
+  },
+  "fallback": {
+    "header": "An error has occurred",
+    "subheader": "Oops, something went wrong. It seems the page does not work as it should, please help us by reporting a problem.",
+    "refresh": "Refresh",
+    "reportBug": "Report a problem",
+    "iconAlt": "Fallback icon"
+  },
+  "dashboard": {
+    "title": "Breeds"
+  },
+  "images": {
+    "catAlt": "Cat photo",
+    "defaultHeader": "Cat photos"
+  }
+}
