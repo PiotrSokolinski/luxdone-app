@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/luxdone-app/precache-manifest.10e4d00222237cadb99bb43712b0b373.js"
+  "/luxdone-app/precache-manifest.6fec2f06ba601340ba23455aa411dc80.js"
 );
 
 workbox.clientsClaim();
